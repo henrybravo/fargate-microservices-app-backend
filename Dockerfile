@@ -1,4 +1,4 @@
-FROM java:8
+FROM public.ecr.aws/bitnami/java:1.8
 
 ENV PACKAGE_NAME spring-boot-fullstack-crud-full-stack-with-maven-0.0.1-SNAPSHOT.jar
 
